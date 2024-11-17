@@ -19,3 +19,11 @@ repos:
         language: script
         require_serial: true
         args: ["warning"]
+
+      - id: cljfmt
+        name: cljfmt formatter
+        description: Run formatting rules with cljfmt
+        types: [ clojure ]
+        entry: scripts/hooks/pre-commit-cljfmt
+        language: script
+        require_serial: true
