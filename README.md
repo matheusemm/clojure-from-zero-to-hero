@@ -2,6 +2,10 @@
 
 Clojure version of [spring-boot-from-zero-to-hero](https://github.com/sivaprasadreddy/spring-boot-from-zero-to-hero).
 
+## References
+
+* https://github.com/andfadeev/clojure-service-template
+
 ## License
 
 Copyright © 2024 Matheus Moreira
